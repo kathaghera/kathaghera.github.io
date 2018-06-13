@@ -1,0 +1,36 @@
+# site settings
+title: Katha
+subtitle: Ghera
+email: kathaghera@gmail.com
+description: KATHA GHERA IS A SELF SUSTAINING THEATRE COLLECTIVE WITH A DEEP PASSION TOWARDS LISTENING, ENACTING AND WORKING WITH STORIES.
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author: Arogya Koirala
+street_address: Gunakamdev Marg 76
+city: Teku, Kathmandu
+# state: Province 3
+zip_code: 44600
+country: Nepal
+phone: +977 981-870-9302
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 5
+
+# social settings
+# 500px_url:
+facebook_url: https://www.facebook.com/kathaghera/
+# github_url:
+# gitlab_url: https://gitlab.com/u/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+instagram_url: https://www.instagram.com/kathagheraproductions/
+# linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+# pinterest_url:
+# slack_url:
+twitter_url: https://twitter.com/kathaghera
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
