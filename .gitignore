@@ -1,0 +1,4 @@
+.sass-cashe
+vendor/
+.bundle
+_site/
