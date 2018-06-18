@@ -2,7 +2,7 @@
 title: Katha
 subtitle: Ghera
 email: kathaghera@gmail.com
-description: KATHA GHERA IS A SELF SUSTAINING THEATRE COLLECTIVE WITH A DEEP PASSION TOWARDS LISTENING, ENACTING AND WORKING WITH STORIES.
+description: KATHA GHERA IS A SELF SUSTAINING THEATRE COLLECTIVE WITH A DEEP PASSION <br/>TOWARDS LISTENING, ENACTING AND WORKING WITH STORIES.
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Arogya Koirala
@@ -11,11 +11,11 @@ city: Teku, Kathmandu
 # state: Province 3
 zip_code: 44600
 country: Nepal
-phone: +977 981-870-9302
+phone: +977 981-870-9302 <br/> +977 986-131-5317
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 5
+tiles-count: 8
 
 # social settings
 # 500px_url:
@@ -34,3 +34,15 @@ markdown: kramdown
 
 sass:
   style: compressed
+
+
+# #srcset, sizes and dynamic media related
+# image_url: /assets/images
+# amp_base: //i1.adis.ws/i/bendemo
+# default_width: '1000'
+# sizes: '(min-width: 1020px) 60vw, 90vw'
+#
+# srcset:
+#   - 600
+#   - 850
+#   - 1200

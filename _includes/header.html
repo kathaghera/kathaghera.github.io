@@ -3,7 +3,10 @@
 
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
+	<a href="{{ "" | absolute_url }}/" class="logo">
+		<!-- <img style="max-height:60px" src="/assets/images/logo-1.jpg"/> -->
+		<strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span>
+	</a>
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -23,9 +26,9 @@
 		    {% endif %}
 		{% endfor %}
 	</ul>
-	<ul class="actions vertical">
+	<ul class="links">
 		{% for post in site.posts %}
-		<li><a href="{{post.url}}" class="button fit">{{post.title}}</a></li>
+		<li><a href="{{post.url}}" class="">{{post.title}}</a></li>
 		<!-- <li><a href="#" class="button special fit">Log In</a></li> -->
 		{% endfor %}
 	</ul>

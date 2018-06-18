@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Proscenium Production
+title: Productions
 description: We engage in intensive theater processes with an aim to put a production on stage.
 image: assets/images/pic01.jpg
 ---
@@ -32,6 +32,11 @@ workshop also carries in-depth and essential conversations surrounding sexual
 organs and processes that help the actors involved to thoroughly know about their
 own bodies and everything that happens to and around them. This process is vital
 to go through for each actor before getting into the nuances of the script.
+
+<div class="row">
+  <div class="12u"><span class="image fit"><img src="/assets/images/vmono.jpg" alt="" /></span></div>
+
+</div>
 
 #### Director’s Note
 
