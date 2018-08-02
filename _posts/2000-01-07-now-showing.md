@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Now Showing at Kausi Theater
+title: Recent productions at Kausi Theater
 description: दयालु रुख, an adaptation of Shel Silverstein's "The Giving Tree" is currently being staged.
 image: assets/images/pic06.jpg
 ---
